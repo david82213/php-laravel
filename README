@@ -1,0 +1,30 @@
+Comments:
+    Not working part/link/function:
+        -Chat Room link and function
+        -Quick Post link
+        -U-book Section: this is a group of the forum, admin user can add this section later
+        -The popular/newset posts display on the home page
+    Other functions are working
+    
+Users:
+normal user:
+    user name:testuser2
+    password:testuser2
+    
+    you can: post, read, comment,change your profile picture
+
+admin user:
+    user name:testuser1
+    password:testuser1
+    
+    you can: all normal user can do + add/delete group and category
+    
+Register:
+remember to write your email address then when someone comment on your post you will get an email notification
+
+References:
+    - Laracasts
+    - stackoverflow
+    - YouTube
+    - Google
+    - all above have been used as tutorials and guides to help us

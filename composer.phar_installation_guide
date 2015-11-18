@@ -1,0 +1,4 @@
+Do this on command line in ur php-laravel folder:
+	php -r "readfile('https://getcomposer.org/installer');" | php
+then do :
+	php composer.phar require intervention/image
